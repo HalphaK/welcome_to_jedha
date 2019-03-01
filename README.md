@@ -17,3 +17,7 @@ for item in variable:
 
   1. fes
   2. fs
+
+  |colonne1|colonne2|
+  |--|--|
+  |text|text|
